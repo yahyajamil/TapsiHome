@@ -1,0 +1,129 @@
+@media (max-width: 576px){
+
+}
+@media (max-width: 768px){
+    .title {
+        font-size: 25px !important;
+    }
+    .sub-title {
+        font-size: 16px !important;
+    }
+    .download-content {
+        display: flex;
+        justify-content: center !important;
+    }
+    .download-box {
+        width: 270px !important;
+        top: -26.5rem !important;
+    }
+
+    .intro-btn-passanger {
+        margin: 10px 0;
+    }
+    .intro-btn {
+        display: block;
+    }
+    .intro-btn p {
+        font-size: 14px !important;
+    }
+
+    .service-image {
+        display: none;
+    }
+
+    .content-container {
+        width: 100%;
+    }
+
+    .content-container h3 {
+        font-size: 18px !important;
+    }
+
+    .content-container p {
+        font-size: 14px !important;
+    }
+
+    .section-container {
+        max-width: 700px !important;
+    }
+
+    .img-container {
+        width: 80%;
+        position: relative;
+        right: 5%;
+        top: -30px;
+    }
+
+    .divider {
+        display: none;
+    }
+
+    .parallax {
+        height: 100%;
+    }
+
+    .parallax .container .content-wrapper {
+        display: block !important;
+    }
+
+    .parallax .container .content-wrapper>div {
+        width: 100% !important;
+        padding: 10px 0 !important;
+    }
+
+    .parallax .title {
+        font-size: 18px !important;
+    }
+
+    .parallax .sub-title {
+        font-size: 14px !important;
+    }
+    .img-section {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .drivers {
+        padding: 50px 0 !important;
+    }
+
+    .drivers ul li {
+        font-size: 14px !important;
+        margin: 10px 0;
+    }
+
+    .links-wrapper {
+        font-size: 14px !important;
+    }
+
+    .drivers .links-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .drivers .links-wrapper a {
+        margin: 10px 0;
+    }
+
+    .services-nav {
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+
+    .post-container {
+        width: 70% !important;
+        padding: 0 !important;
+    }
+
+    .col-logo {
+        width: 100%;
+    }
+}
+
+@media (max-width: 992px){
+    
+}
+@media (max-width: 1200px){
+
+}
